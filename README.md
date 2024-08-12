@@ -1,2 +1,2 @@
 Hello There.
-This is teh way!
+This is the way!
